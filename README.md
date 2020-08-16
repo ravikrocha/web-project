@@ -11,4 +11,6 @@ It's the Introduction of the project.
 It's the purpose of the project
 ## Deployment
 
+This is the Deployment part.
+
 ## How To Contribute
