@@ -8,6 +8,7 @@ It's the Introduction of the project.
 
 ## Purpose
 
+It's the purpose of the project
 ## Deployment
 
 ## How To Contribute
