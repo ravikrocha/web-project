@@ -15,3 +15,5 @@ It's the purpose of the project
 This is the Deployment part.
 
 ## How To Contribute
+
+you don't need to contribute, this project is just for my training.
