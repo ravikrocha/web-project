@@ -10,6 +10,7 @@ This is the second part of the introduction.
 ## Purpose
 
 It's the purpose of the project
+Second line of the purpose part.
 ## Deployment
 
 This is the Deployment part.
